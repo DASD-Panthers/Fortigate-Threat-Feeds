@@ -1,0 +1,25 @@
+name: Update Data File
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Download data from URL
+      run: curl -sSfL -o data.txt https://asn.ipinfo.app/api/text/list/AS8100
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'actions@users.noreply.github.com'
+        git add data.txt
+        git commit -m "Update data.txt" || exit 0
+        git push
