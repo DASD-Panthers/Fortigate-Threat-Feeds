@@ -6,12 +6,10 @@ https://asn.ipinfo.app/api/text/list/AS204957 #GREEN FLOID LLC
 https://asn.ipinfo.app/api/text/list/AS61112 #AKILE LTD
 https://asn.ipinfo.app/api/text/list/AS8100 # QuadraNet Enterprises LLC
 https://asn.ipinfo.app/api/text/list/AS16276 #OVH US LLC
-https://asn.ipinfo.app/api/text/list/AS35540 #OVH US LLC
 https://asn.ipinfo.app/api/text/list/AS394814 #ISP4Life
 https://asn.ipinfo.app/api/text/list/AS35478 #DATACENTER - Bunea TELECOM SRL
 https://asn.ipinfo.app/api/text/list/AS22384 #Performive LLC
 https://asn.ipinfo.app/api/text/list/AS46562 #Performive LLC
-https://asn.ipinfo.app/api/text/list/AS20093 #Performive LLC
 https://asn.ipinfo.app/api/text/list/AS39486 #Hostroyale_Technologies
 https://asn.ipinfo.app/api/text/list/AS44144 #Hostroyale_Technologies
 https://asn.ipinfo.app/api/text/list/AS133499 #Hostroyale_Technologies
@@ -68,3 +66,5 @@ https://asn.ipinfo.app/api/text/list/AS61317 #Hivelocity Inc
 https://asn.ipinfo.app/api/text/list/AS263735 #Buena Hosting
 https://asn.ipinfo.app/api/text/list/AS263740 #Corporacion Laceibanetsociety
 https://asn.ipinfo.app/api/text/list/AS14061 #DigitalOcean
+https://asn.ipinfo.app/api/text/list/AS8075 #Microsoft
+https://asn.ipinfo.app/api/text/list/AS62240 #Clouvider
