@@ -23,3 +23,15 @@ jobs:
 
       - name: Run script
         run: python ASN-Script.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add SSLVPN-ASN-Blocks.txt
+          git commit -m "Add SSLVPN-ASN-Blocks.txt"
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.SECRET_PYTHON_TOKEN }}  # Use your new secret here
