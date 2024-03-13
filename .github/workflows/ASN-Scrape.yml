@@ -26,12 +26,13 @@ jobs:
       - name: Run script
         run: python ASN-Script.py
 
-      - name: Commit changes
+      - name: Overwrite SSLVPN-ASN-Blocks.txt
         run: |
           git config --local user.email "rbeaman@durand.k12.wi.us"
           git config --local user.name "DASD-Panthers"
-          git add SSLVPN-ASN-Blocks.txt
-          git commit -m "Add SSLVPN-ASN-Blocks.txt"
+          git checkout -- SSLVPN-ASN-Blocks.txt  # Discard changes to the file
+          git add SSLVPN-ASN-Blocks.txt  # Force-add the file
+          git commit -m "Update SSLVPN-ASN-Blocks.txt" --allow-empty  # Commit changes, even if no changes were made
           
       - name: Push changes
         uses: ad-m/github-push-action@master
