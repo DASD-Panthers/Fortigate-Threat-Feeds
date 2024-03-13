@@ -11,12 +11,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4  # Update to use Node.js 20
+        uses: actions/checkout@v3
         with:
           ref: ${{ github.ref }}
 
       - name: Set up Python
-        uses: actions/setup-python@v2  # Update to use Node.js 20
+        uses: actions/setup-python@v3
         with:
           python-version: 3.8
 
@@ -36,4 +36,4 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.SECRET_PYTHON_TOKEN }}  # Use your new secret here
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # Use the default GITHUB_TOKEN
