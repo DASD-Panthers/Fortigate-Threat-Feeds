@@ -1,4 +1,4 @@
-name: Scrape Websites
+name: Scrape ASN Websites from Master List
 
 on:
   schedule:
@@ -21,4 +21,4 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: Run script
-        run: python script.py
+        run: python ASN-Script.py
