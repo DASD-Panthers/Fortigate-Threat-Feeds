@@ -7,5 +7,6 @@ The source of all the data to scrape is the "MasterASN-List.txt" file.  In there
 I have the action script set to run at 8am CST everyday via an action .yml file.  I then point my firewall to the raw data version of the output file "SSLVPN-ASN-Blocks.txt" and set it to update daily after my github script runs its update.  There is a similar process I found that does all of this but it is ran locally in a linux server then uploaded to github as part of the script.  I felt doing the entire process in github was a bit easier for most people and removes an additional device on the network to maintain.
 
 How to fix the github workflow error:
+
 1.0 - Change workflow permissions - otherwise it will error out on the actions process.  
 1.1 - https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot
