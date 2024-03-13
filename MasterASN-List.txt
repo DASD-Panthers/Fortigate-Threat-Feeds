@@ -1,0 +1,101 @@
+# Name: QUADRANET-GLOBAL
+https://asn.ipinfo.app/api/text/list/AS8100
+
+# Name: Datacamp Limited
+https://asn.ipinfo.app/api/text/list/AS212238
+
+# Name: Digital Ocean
+https://asn.ipinfo.app/api/text/list/AS14061
+
+# Name: Godaddy
+https://asn.ipinfo.app/api/text/list/AS398101
+https://asn.ipinfo.app/api/text/list/AS398108
+https://asn.ipinfo.app/api/text/list/AS26496
+https://asn.ipinfo.app/api/text/list/AS400754
+
+# Name: HostingSolution LTD
+https://asn.ipinfo.app/api/text/list/AS14576
+
+# Name: Performative
+https://asn.ipinfo.app/api/text/list/AS46562
+
+# Name: Microsoft
+https://asn.ipinfo.app/api/text/list/AS8075
+
+# Name: Clouvider
+https://asn.ipinfo.app/api/text/list/AS62240
+
+# Name: Hurricane Electric LLC
+https://asn.ipinfo.app/api/text/list/AS6939
+
+# Name: QuadraNet Enterprises
+https://asn.ipinfo.app/api/text/list/AS8100
+
+# Name: M247 Europe SRL
+https://asn.ipinfo.app/api/text/list/AS9009
+
+# Name: tzulo
+https://asn.ipinfo.app/api/text/list/AS11878
+
+# Name: UK-2 Limited
+https://asn.ipinfo.app/api/text/list/AS13213
+
+# Name: Cloudflare
+https://asn.ipinfo.app/api/text/list/AS13335
+
+# Name: Performive LLC
+https://asn.ipinfo.app/api/text/list/AS20093
+
+# Name: Performive LLC
+https://asn.ipinfo.app/api/text/list/AS46562
+
+# Name: Free Range Cloud Hosting
+https://asn.ipinfo.app/api/text/list/AS53356
+
+# Name: Netprotect SP
+https://asn.ipinfo.app/api/text/list/AS54203
+
+# Name: Hivelocity Inc
+https://asn.ipinfo.app/api/text/list/AS61317
+
+# Name: Linode
+https://asn.ipinfo.app/api/text/list/AS63949
+
+# Name: HostRoyale
+https://asn.ipinfo.app/api/text/list/AS203020
+
+# Name: Datacamp Limited
+https://asn.ipinfo.app/api/text/list/AS212238
+
+# Name: Buena Hosting
+https://asn.ipinfo.app/api/text/list/AS263735
+
+# Name: Corporacion Laceibanetsociety
+https://asn.ipinfo.app/api/text/list/AS263740
+
+# Name: DigitalOcean
+https://asn.ipinfo.app/api/text/list/AS14061
+
+# Name: GoDaddy.com
+https://asn.ipinfo.app/api/text/list/AS398108
+
+# Name: ISD NETWORKS
+https://asn.ipinfo.app/api/text/list/AS265506
+
+# Name: Ihor Hosting
+https://asn.ipinfo.app/api/text/list/AS35196
+
+# Name: Korea Telecom
+https://asn.ipinfo.app/api/text/list/AS4766
+
+# Name: Petersburg Internet Network
+https://asn.ipinfo.app/api/text/list/AS34665
+
+# Name: SELECTEL
+https://asn.ipinfo.app/api/text/list/AS49505
+
+# Name: SOCIEDAD BUENA HOSTING
+https://asn.ipinfo.app/api/text/list/AS263735
+
+# Name: Website Hosting
+https://asn.ipinfo.app/api/text/list/AS46337
