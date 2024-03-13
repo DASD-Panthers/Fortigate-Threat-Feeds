@@ -1,3 +1,11 @@
+Pending Issues to Resolve 
+
+3/13/2024 1:17pm CST - Waiting to see what the issue is with the job queue getting stuck waiting for workers.  Will check back to see if the issue is resolved when it runs tomorrow morning.
+
+Error: Waiting for a runner to pick up this job...Job is waiting for a hosted runner to come online.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 This python script scrapes the URL's of many common hosting providers and known malicious ASN networks that attackers use for USA based attacks. So even if you are geoblocking everything but the USA for access, you are more than likely still getting attackers attempting to connect to your on-site services.  For an example, before adding this blocklist to my firewall I was seeing roughly 20k attempted connections over the course of 4 days.  After implementing these ASN blocks I cut it down to 0 at the time of writing.  As different ASN's get used for attack I can add them to the master list which will then run daily and be automatically updated into my firewall threatfeed.  While those 20k attempted connections were all failures, straight out blocking them makes sense because you never know when a zero day vulnerability will come out and may give the attacker a way into your network.  
 
 Many attackers rotate their connections across many IP's so blocking individual public IP's can be like whack-a-mole.  If you find the common IP range they are attacking you from you can look up the ASN number and block their whole IP range to prevent futher issues.  
