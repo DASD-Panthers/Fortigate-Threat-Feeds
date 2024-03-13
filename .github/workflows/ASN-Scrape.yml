@@ -26,8 +26,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "rbeaman@durand.k12.wi.us"
+          git config --local user.name "DASD-Panthers"
           git add SSLVPN-ASN-Blocks.txt
           git commit -m "Add SSLVPN-ASN-Blocks.txt"
           
