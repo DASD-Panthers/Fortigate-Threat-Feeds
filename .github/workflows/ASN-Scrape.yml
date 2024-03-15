@@ -30,12 +30,10 @@ jobs:
         run: |
           git config --local user.email "rbeaman@durand.k12.wi.us"
           git config --local user.name "DASD-Panthers"
-          git checkout -- SSLVPN-ASN-Blocks.txt  # Discard changes to the file
           git add SSLVPN-ASN-Blocks.txt  # Force-add the file
-          git commit -m "Update SSLVPN-ASN-Blocks.txt" --allow-empty  # Commit changes, even if no changes were made
           git push --force  # Force push changes to the remote repository
 
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.SECRET_ACTION_TOKEN }}  # Use the Secret Token
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # Use the default GITHUB_TOKEN
