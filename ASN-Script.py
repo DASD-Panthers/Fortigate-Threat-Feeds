@@ -1,4 +1,5 @@
 import requests
+import warnings  # Import warnings module
 from bs4 import BeautifulSoup
 
 # Function to read URLs from MasterASN-List.txt, ignoring lines starting with #
@@ -39,5 +40,9 @@ if __name__ == "__main__":
     input_file = "MasterASN-List.txt"
     output_file = "SSLVPN-ASN-Blocks.txt"
     urls = read_urls_from_file(input_file)
+
+    # Suppress Beautiful Soup warnings
+    warnings.filterwarnings("ignore", category=UserWarning, module="bs4")
+
     scrape_and_export(urls, output_file)
     print(f"Scraped content has been exported to {output_file}")
