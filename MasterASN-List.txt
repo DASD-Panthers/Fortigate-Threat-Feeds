@@ -28,9 +28,6 @@ https://asn.ipinfo.app/api/text/list/AS62240
 # Name: Hurricane Electric LLC
 https://asn.ipinfo.app/api/text/list/AS6939
 
-# Name: QuadraNet Enterprises
-https://asn.ipinfo.app/api/text/list/AS8100
-
 # Name: M247 Europe SRL
 https://asn.ipinfo.app/api/text/list/AS9009
 
@@ -45,9 +42,6 @@ https://asn.ipinfo.app/api/text/list/AS13335
 
 # Name: Performive LLC
 https://asn.ipinfo.app/api/text/list/AS20093
-
-# Name: Performive LLC
-https://asn.ipinfo.app/api/text/list/AS46562
 
 # Name: Free Range Cloud Hosting
 https://asn.ipinfo.app/api/text/list/AS53356
@@ -64,20 +58,8 @@ https://asn.ipinfo.app/api/text/list/AS63949
 # Name: HostRoyale
 https://asn.ipinfo.app/api/text/list/AS203020
 
-# Name: Datacamp Limited
-https://asn.ipinfo.app/api/text/list/AS212238
-
-# Name: Buena Hosting
-https://asn.ipinfo.app/api/text/list/AS263735
-
 # Name: Corporacion Laceibanetsociety
 https://asn.ipinfo.app/api/text/list/AS263740
-
-# Name: DigitalOcean
-https://asn.ipinfo.app/api/text/list/AS14061
-
-# Name: GoDaddy.com
-https://asn.ipinfo.app/api/text/list/AS398108
 
 # Name: ISD NETWORKS
 https://asn.ipinfo.app/api/text/list/AS265506
