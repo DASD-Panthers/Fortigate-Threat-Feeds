@@ -102,3 +102,7 @@ https://asn.ipinfo.app/api/text/list/AS46337
 
 # Name: SERVERS - Servers.com, Inc., US
 https://asn.ipinfo.app/api/text/list/7979
+
+# Name: DATACENTER-IP - Datacenter IP, LLC, US
+https://asn.ipinfo.app/api/text/list/13739
+
