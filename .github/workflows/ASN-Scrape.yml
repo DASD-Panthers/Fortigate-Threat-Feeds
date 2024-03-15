@@ -31,6 +31,7 @@ jobs:
           git config --local user.email "rbeaman@durand.k12.wi.us"
           git config --local user.name "DASD-Panthers"
           git add SSLVPN-ASN-Blocks.txt  # Force-add the file
+          git commit -m "Update SSLVPN-ASN-Blocks.txt" --allow-empty  # Commit changes, even if no changes were made
           git push --force  # Force push changes to the remote repository
 
       - name: Push changes
