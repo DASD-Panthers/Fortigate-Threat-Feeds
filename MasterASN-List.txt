@@ -99,3 +99,6 @@ https://asn.ipinfo.app/api/text/list/AS263735
 
 # Name: Website Hosting
 https://asn.ipinfo.app/api/text/list/AS46337
+
+# Name: SERVERS - Servers.com, Inc., US
+https://asn.ipinfo.app/api/text/list/7979
