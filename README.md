@@ -1,8 +1,3 @@
-Pending Issues to Resolve 
-
-3/13/2024 1:17pm CST - Waiting to see what the issue is with the job queue getting stuck waiting for workers.  Will check back to see if the issue is resolved when it runs tomorrow morning.
-
-Error: Waiting for a runner to pick up this job...Job is waiting for a hosted runner to come online.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
