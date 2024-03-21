@@ -2,7 +2,7 @@ name: Scrape ASN Websites from Master List
 
 on:
   schedule:
-    - cron: "0 2 * * *"  # Run the job every day at 2am UTC (equivalent to 8am CST)
+    - cron: "0 11 * * *"  # Run the job every day at 10pm UTC (equivalent to 7am CST)
   workflow_dispatch:  # Allow manual triggering
 
 jobs:
