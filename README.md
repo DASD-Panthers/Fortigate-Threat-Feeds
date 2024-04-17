@@ -23,3 +23,20 @@ How to fix the github workflow error:
 
 1.0 - Change workflow permissions - otherwise it will error out on the actions process.  
 1.1 - https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+General setup- if copied:
+
+Note- You can fork off the original if you don't want to maintain your repo. If you want to maintain your own see below.
+
+Download all files from this repo.
+Create your repo.
+Create your personal access token (follow best practice to expire this after X amount of days.) Copy this code, see details here: https://docs.github.com/en/enterprise-server@3.9/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+Set permissions for token up for Repo, admin:org read, and user.
+Open Actions in repo > then click New Workflow > Type "Simple Workflow." Click Configure> name ASN-Scrape.yml as the file name. Copy and paste the .yml code into the edit box that you got for the original repo. This will create .github/workflows folder with .yml file in it.
+Go to repo setting > Actions > General > Work flow permissions > select "read and write permissions." Next, go to Secrets and Variables> Actions > New Repository secret. Provide whatever name you want, and paste in the personal token code you created earlier. (You will have to rotate this as the personal token expires.)
+Finally test by going to Actions > Workflows > Run workflow.
+Go to SSLVPN-ASN-Blocks.txt and then click "Raw" to get the URL.
+Open FortiGate > Security Fabric > Create New > Threat Feeds > IP address. Paste in the raw GitHub URL. Turn off HTTP basic authentication. Then click OK.
+This will create an object on the firewall that can be used for policies to apply however you see fit (ingress/egress.)
