@@ -40,7 +40,9 @@ Set permissions for token up for Repo, admin:org read, and user.
 
 Open Actions in repo > then click New Workflow > Type "Simple Workflow." Click Configure> name ASN-Scrape.yml as the file name. Copy and paste the .yml code into the edit box that you got for the original repo. This will create .github/workflows folder with .yml file in it.
 
-Go to repo setting > Actions > General > Work flow permissions > select "read and write permissions." Next, go to Secrets and Variables> Actions > New Repository secret. Provide whatever name you want, and paste in the personal token code you created earlier. (You will have to rotate this as the personal token expires.)
+Go to repo setting > Actions > General > Work flow permissions > select "read and write permissions." 
+
+Next, go to Secrets and Variables> Actions > New Repository secret. Provide whatever name you want, and paste in the personal token code you created earlier. (You will have to rotate this as the personal token expires.)
 
 Finally test by going to Actions > Workflows > Run workflow.
 
