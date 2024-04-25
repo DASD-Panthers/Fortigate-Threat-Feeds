@@ -8,6 +8,10 @@ https://community.fortinet.com/t5/FortiGate/Technical-Tip-Prevent-TOR-IP-address
 Threatfeeds blocking ASN numbers: 
 https://www.reddit.com/r/fortinet/comments/1b2ewwo/using_sslvpn_reduce_your_security_footprint_block/
 
+Harden Cisco VPN Appliances:
+
+https://www.cisco.com/c/en/us/support/docs/security/secure-firewall-threat-defense/221806-password-spray-attacks-impacting-custome.html
+
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
