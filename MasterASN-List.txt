@@ -84,3 +84,12 @@ https://asn.ipinfo.app/api/text/list/AS46337
 
 # Name: WideOpenWest Finance LLC (WOPW) - Added April 24 2024
 https://asn.ipinfo.app/api/text/list/AS12083
+
+# Name: Strong Technology, LLC. (STL-172) - Added April 24 2024
+https://asn.ipinfo.app/api/text/list/AS22781
+https://asn.ipinfo.app/api/text/list/AS62651
+https://asn.ipinfo.app/api/text/list/AS13926
+
+# Name: Censys, Inc. (CENSY) - Added April 24 2024
+https://asn.ipinfo.app/api/text/list/AS398705
+
