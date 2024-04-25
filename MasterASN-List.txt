@@ -81,3 +81,6 @@ https://asn.ipinfo.app/api/text/list/AS263735
 
 # Name: Website Hosting
 https://asn.ipinfo.app/api/text/list/AS46337
+
+# Name: WideOpenWest Finance LLC (WOPW) - Added April 24 2024
+https://asn.ipinfo.app/api/text/list/AS12083
