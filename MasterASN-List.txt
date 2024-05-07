@@ -99,3 +99,7 @@ https://asn.ipinfo.app/api/text/list/AS14618
 # Name: Censys, Inc. (CENSY) - Added May 7th, 2024
 https://asn.ipinfo.app/api/text/list/AS398324
 
+# Name: AGIS (AGIS) - Added May 7th, 2024
+https://asn.ipinfo.app/api/text/list/AS174
+
+
