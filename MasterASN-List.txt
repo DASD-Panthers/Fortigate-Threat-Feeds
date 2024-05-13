@@ -105,3 +105,8 @@ https://asn.ipinfo.app/api/text/list/AS174
 # Name: CariNet, Inc. - Added May 7th, 2024
 https://asn.ipinfo.app/api/text/list/AS10439
 
+# Name: UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED - Added May 13th, 2024
+https://asn.ipinfo.app/api/text/list/AS135377
+
+# Name: Rethem Hosting LLC - Added May 13th, 2024
+https://asn.ipinfo.app/api/text/list/AS14987
