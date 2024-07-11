@@ -110,3 +110,9 @@ https://asn.ipinfo.app/api/text/list/AS135377
 
 # Name: Rethem Hosting LLC - Added May 13th, 2024
 https://asn.ipinfo.app/api/text/list/AS14987
+
+# Name: TrafficTransitSolution LLC - Added July 11, 2024
+https://asn.ipinfo.app/api/text/list/AS26548
+
+# Name: FINE GROUP SERVERS SOLUTIONS LLC - Added July 11, 2024
+https://asn.ipinfo.app/api/text/list/AS35830
