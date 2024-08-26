@@ -116,3 +116,18 @@ https://asn.ipinfo.app/api/text/list/AS26548
 
 # Name: FINE GROUP SERVERS SOLUTIONS LLC - Added July 11, 2024
 https://asn.ipinfo.app/api/text/list/AS35830
+
+# Name: Global Connectivity Solutions - Added August 26, 2024
+https://asn.ipinfo.app/api/text/list/AS207713
+
+# Name: Global Connectivity Solutions - Added August 26, 2024
+https://asn.ipinfo.app/api/text/list/AS215540
+
+# Name: Arbor Networks, Inc. - Arbor Networks Research Scanner - Added August 26, 2024
+https://asn.ipinfo.app/api/text/list/AS19905
+
+# Name: Alibaba Cloud LLC - Added August 26, 2024
+https://asn.ipinfo.app/api/text/list/AS45102
+
+# Name: AS-BITSIGHT, PT - Added August 26, 2024
+https://asn.ipinfo.app/api/text/list/AS211680
