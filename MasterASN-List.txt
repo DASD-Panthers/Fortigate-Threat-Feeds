@@ -131,3 +131,7 @@ https://asn.ipinfo.app/api/text/list/AS45102
 
 # Name: AS-BITSIGHT, PT - Added August 26, 2024
 https://asn.ipinfo.app/api/text/list/AS211680
+
+# Name: STARK INDUSTRIES SOLUTIONS LTD - Added September 5, 2024
+https://asn.ipinfo.app/api/text/list/AS44477
+https://asn.ipinfo.app/api/text/list/AS52000
