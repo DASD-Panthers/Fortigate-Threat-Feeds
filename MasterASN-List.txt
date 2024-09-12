@@ -135,3 +135,9 @@ https://asn.ipinfo.app/api/text/list/AS211680
 # Name: STARK INDUSTRIES SOLUTIONS LTD - Added September 5, 2024
 https://asn.ipinfo.app/api/text/list/AS44477
 https://asn.ipinfo.app/api/text/list/AS52000
+
+# Name: HAWAIIRESEARCH - Added September 12, 2024
+https://asn.ipinfo.app/api/text/list/AS400161
+
+# Name: Censys, Inc. (CENSY) - Added September 12, 2024
+https://asn.ipinfo.app/api/text/list/AS398722
