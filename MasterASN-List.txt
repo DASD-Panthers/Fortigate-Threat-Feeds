@@ -141,3 +141,6 @@ https://asn.ipinfo.app/api/text/list/AS400161
 
 # Name: Censys, Inc. (CENSY) - Added September 12, 2024
 https://asn.ipinfo.app/api/text/list/AS398722
+
+# Name: GLOBALTELEHOST Corp. - Added September 13, 2024
+https://asn.ipinfo.app/api/text/list/AS62563
