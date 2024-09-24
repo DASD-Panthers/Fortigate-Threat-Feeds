@@ -144,3 +144,6 @@ https://asn.ipinfo.app/api/text/list/AS398722
 
 # Name: GLOBALTELEHOST Corp. - Added September 13, 2024
 https://asn.ipinfo.app/api/text/list/AS62563
+
+# Name: ONYPHE, SAS (C10897888) - Added September 24, 2024
+https://asn.ipinfo.app/api/text/list/AS16276
