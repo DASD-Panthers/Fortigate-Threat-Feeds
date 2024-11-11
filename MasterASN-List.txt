@@ -147,3 +147,25 @@ https://asn.ipinfo.app/api/text/list/AS62563
 
 # Name: ONYPHE, SAS (C10897888) - Added September 24, 2024
 https://asn.ipinfo.app/api/text/list/AS16276
+
+# Name: Sharktech (SHARK-7) - Added November 11, 2024
+https://asn.ipinfo.app/api/text/list/AS46844
+
+# Name: FranTech Solutions (SYNDI-5) - Added November 11, 2024
+https://asn.ipinfo.app/api/text/list/AS53667
+
+# Name: VegasNAP, LLC (VEGAS-3) - Added November 11, 2024
+https://asn.ipinfo.app/api/text/list/AS36114
+https://asn.ipinfo.app/api/text/list/AS53340
+
+# Name: The Constant Company, LLC (CHOOP-1) - Added November 11, 2024
+https://asn.ipinfo.app/api/text/list/AS20473
+
+# Name: Hargray Communications Group, Inc. (HARGRA-4) - Added November 11, 2024
+https://asn.ipinfo.app/api/text/list/AS22646
+
+# Name: Unified Layer (BLUEH-2) - Added November 11, 2024
+https://asn.ipinfo.app/api/text/list/AS46606
+
+# Name: IONOS Inc. (11INT) - Added November 11, 2024
+https://asn.ipinfo.app/api/text/list/AS8560
