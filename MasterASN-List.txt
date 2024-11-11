@@ -169,3 +169,9 @@ https://asn.ipinfo.app/api/text/list/AS46606
 
 # Name: IONOS Inc. (11INT) - Added November 11, 2024
 https://asn.ipinfo.app/api/text/list/AS8560
+
+# Name: CABLE ONE, INC. (CBL1) - Added November 11, 2024
+https://asn.ipinfo.app/api/text/list/AS11492
+
+# Name: Mikrotec Internet Services (PDNS-1) - Added November 11, 2024
+https://asn.ipinfo.app/api/text/list/AS3801
