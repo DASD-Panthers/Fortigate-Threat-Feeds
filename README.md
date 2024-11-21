@@ -3,6 +3,9 @@ Helpful guides to secure your fortigate VPN and threatfeeds:
 Moving SSLVPN to a loopback interface:
 https://www.reddit.com/r/fortinet/comments/1b2xmj7/move_sslvpn_to_loopback_interface/
 
+![image](https://github.com/user-attachments/assets/7842573d-7825-4465-b130-effb85c70be2)
+
+
 https://community.fortinet.com/t5/FortiGate/Technical-Tip-Prevent-TOR-IP-addresses-from-accessing-SSL-VPN/ta-p/269785
 
 Threatfeeds blocking ASN numbers: 
