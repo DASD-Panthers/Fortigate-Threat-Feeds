@@ -175,3 +175,12 @@ https://asn.ipinfo.app/api/text/list/AS11492
 
 # Name: Mikrotec Internet Services (PDNS-1) - Added November 11, 2024
 https://asn.ipinfo.app/api/text/list/AS3801
+
+# Name: HOLSTON ELECTRIC COOPERATIVE (HEC-88) - Added December 1, 2024
+https://asn.ipinfo.app/api/text/list/AS63448
+
+# Name: Troy Cablevision, Inc. (TROYC) - Added December 1, 2024
+https://asn.ipinfo.app/api/text/list/AS13825
+
+# Name: Grande Communications Networks, LLC (GCNI) - Added December 1, 2024
+https://asn.ipinfo.app/api/text/list/AS7459
