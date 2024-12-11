@@ -187,3 +187,6 @@ https://asn.ipinfo.app/api/text/list/AS7459
 
 # Name: HostPapa (HOSTP-7) - Added December 5, 2024
 https://asn.ipinfo.app/api/text/list/AS36352
+
+# Name: TECHOFF SRV LIMITED - Added December 11, 2024
+https://asn.ipinfo.app/api/text/list/AS48090
