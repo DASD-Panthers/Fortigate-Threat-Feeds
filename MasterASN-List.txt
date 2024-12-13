@@ -193,3 +193,6 @@ https://asn.ipinfo.app/api/text/list/AS48090
 
 # Name: Lunavi, Inc - Added December 11, 2024
 https://asn.ipinfo.app/api/text/list/AS6295
+
+# Name: Lunavi, Inc - Added December 13, 2024
+https://asn.ipinfo.app/api/text/list/AS215479
