@@ -199,3 +199,6 @@ https://asn.ipinfo.app/api/text/list/AS215479
 
 # Name: VELCOM-16 - Added January 6, 2025
 https://asn.ipinfo.app/api/text/list/AS30407
+
+# Name: Eonix Corporation (EONIX) - Added April 4, 2025
+https://asn.ipinfo.app/api/text/list/AS62904
