@@ -17639,10 +17639,10 @@ b''
 === https://asn.ipinfo.app/api/text/list/AS35196 ===
 
 2a09:5302:ffff::/48
-2a0c:f647::/32
 2001:67c:af4::/48
 195.47.250.0/24
 2a0a:9300:1000::/48
+2a0c:f647::/32
 
 
 === https://asn.ipinfo.app/api/text/list/AS4766 ===
